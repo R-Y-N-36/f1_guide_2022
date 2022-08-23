@@ -1,0 +1,211 @@
+body{
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	text-align: justify;
+}
+p{
+	font-size:16px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-right: 50px;
+	margin-left: 0px;
+}
+hr {
+	border-top: 1px solid #ededed;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	margin-left: 0px;
+}
+h2 {
+	font-size:24px;
+	font-weight:800!important;
+	color:#404248;
+	line-height:1.5em;
+}
+th {
+	background-color:#d81a2a;
+	color: white;
+}
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+img {
+	border-radius: 8px;
+}
+.table{
+	text-align:center;
+}
+.f1-teams-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1145px;
+	margin-left: 0px;
+}
+.weekend-events-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1030px;
+	margin-left: 0px;
+}
+.practices-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1123px;
+	margin-left: 0px;
+}
+.qualifying-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1110px;
+	margin-left: 0px;
+}
+.race-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1193px;
+	margin-left: 0px;
+}
+.safty-car-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1110px;
+	margin-left: 0px;
+}
+.foot-hr{
+	border-top: 1px solid #ededed;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.flags-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1334px;
+	margin-left: 0px;
+}
+.tyres-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1184px;
+	margin-left: 0px;
+}
+.ers-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1214px;
+	margin-left: 0px;
+}
+.drs-h2{
+	border-bottom: 2px solid #d81a2a;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1195px;
+	margin-left: 0px;
+}
+a{
+	font-size:13.6px;
+	color: #d81a2a;
+}
+a.icons{
+	color:rgba(255,255,255,1)!important;
+}
+.icons{
+	text-decoration-line:none;
+}
+li.topics{
+	font-size:24px;
+	margin-left: 26px;
+}
+li.topics-10{
+	font-size:24px;
+	margin-left: 44px;
+}
+.topic-strong {
+	font-size:13.6px;
+}
+.rights{
+	font-size:12px;
+}
+.container{
+	background-color:#24292E;
+	height:auto;
+	max-width: 100%;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer-text{
+	font-family: 'Titillium Web', sans-serif;
+    padding: auto;
+    text-align: center;
+    width: 100%;
+    color: rgba(255,255,255,.59);
+	display: block;
+	-webkit-box-sizing: border-box;
+}
+.body-footer-text{
+	font-style:italic;
+	text-algin:center;
+}
+.author-name {
+	font-size:16px;
+}
+img.h2 {
+	max-width:500px;
+	height:auto;
+}
+img.different-between-drs{
+	max-width:500px;
+	height:auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;;
+}
+img.tyres{
+	max-width:500px;
+	height:auto;
+}
+img.flags {
+	max-width:300px;
+	height:auto;
+}
+img.teams-icon {
+	width:100px;
+	height:50px;
+}
+.nv-meta-list {
+	color:#393939;
+	font-size:13.6px;
+}
+.SafetyCar,.VirtualSafetyCar,.yellowflag,.mtyre{
+	color:yellow;
+}
+.greenflag,.ityre{
+	color:green;
+}
+.whiteflag,.htyre{
+	color:rgb(128,128,128)
+}
+.redflag,.styre{
+	color:red;
+}
+.blueflag,.wtyre{
+	color:blue;
+}
+#orangeflag{
+	color:orange;
+}
