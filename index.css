@@ -13,7 +13,7 @@ p{
 hr {
 	border-top: 1px solid #ededed;
 	margin-top: 10px;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 	margin-right: 50px;
 	margin-left: 0px;
 }
@@ -33,6 +33,9 @@ tr:nth-child(even) {
 img {
 	border-radius: 8px;
 }
+h1.heading_1{
+	margin-top: 30px;
+}
 .table{
 	text-align:center;
 }
@@ -48,6 +51,13 @@ img {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-right: 1030px;
+	margin-left: 0px;
+}
+hr.first_for_the_topic{
+	border-top: 1px solid #ededed;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 0px;
 	margin-left: 0px;
 }
 .practices-h2{
@@ -82,8 +92,8 @@ img {
 	border-top: 1px solid #ededed;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 40px;
-	margin-left: 40px;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 .flags-h2{
 	border-bottom: 2px solid #d81a2a;
@@ -136,29 +146,42 @@ li.topics-10{
 }
 .rights{
 	font-size:12px;
+	margin-top: 10px;
 }
 .container{
 	background-color:#24292E;
 	height:auto;
-	max-width: 100%;
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+    max-width: 1366px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 .footer-text{
 	font-family: 'Titillium Web', sans-serif;
-    padding: auto;
     text-align: center;
     width: 100%;
     color: rgba(255,255,255,.59);
 	display: block;
 	-webkit-box-sizing: border-box;
+	padding-top: 10px;
+	padding-right: 50px;
+	padding-bottom: 0px;
+	padding-left: 50px;
+}
+.first-topics{
+	font-size:16px !important;
+	text-decoration-line:none;
 }
 .body-footer-text{
 	font-style:italic;
 	text-algin:center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 .author-name {
 	font-size:16px;
