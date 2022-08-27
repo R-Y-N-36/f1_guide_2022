@@ -33,6 +33,8 @@ tr:nth-child(even) {
 }
 img {
 	border-radius: 8px;
+	width:100%;
+	height:auto;
 }
 h1.heading_1{
 	padding-left:10px;
@@ -46,14 +48,14 @@ h1.heading_1{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1145px;
+	margin-right: 1163px;
 	margin-left: 0px;
 }
 .weekend-events-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1030px;
+	margin-right: 1045px;
 	margin-left: 0px;
 }
 hr.first_for_the_topic{
@@ -70,28 +72,28 @@ hr.first_for_the_topic{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1123px;
+	margin-right: 1138px;
 	margin-left: 0px;
 }
 .qualifying-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1110px;
+	margin-right: 1125px;
 	margin-left: 0px;
 }
 .race-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1193px;
+	margin-right: 1210px;
 	margin-left: 0px;
 }
 .safty-car-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1110px;
+	margin-right: 1127px;
 	margin-left: 0px;
 }
 .foot-hr{
@@ -105,28 +107,28 @@ hr.first_for_the_topic{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1185px;
+	margin-right: 1200px;
 	margin-left: 0px;
 }
 .tyres-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1184px;
+	margin-right: 1200px;
 	margin-left: 0px;
 }
 .ers-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1214px;
+	margin-right: 1230px;
 	margin-left: 0px;
 }
 .drs-h2{
 	border-bottom: 2px solid #d81a2a;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 1195px;
+	margin-right: 1210px;
 	margin-left: 0px;
 }
 a{
@@ -237,4 +239,32 @@ img.teams-icon {
 }
 #orangeflag{
 	color:orange;
+}
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+	img.h2 {
+	max-width:200px;
+	height:auto;
+	}
+	p{
+	font-size:10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
+	}
+	h1.heading_1{
+	padding-left:10px;
+	margin-top: 10px;
+	font-size:24px;
+	}
+	h2{
+	margin-right:200px !important;
+	font-size:20px;
+	}
+	h3{
+	font-size:15px;
+	}
+	
 }
