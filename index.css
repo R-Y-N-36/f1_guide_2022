@@ -34,7 +34,9 @@ img {
 	border-radius: 8px;
 }
 h1.heading_1{
+	padding-left:10px;
 	margin-top: 30px;
+	
 }
 .table{
 	text-align:center;
@@ -59,6 +61,9 @@ hr.first_for_the_topic{
 	margin-bottom: 10px;
 	margin-right: 0px;
 	margin-left: 0px;
+}
+.paragraph_heading_1{
+	padding-left:10px;
 }
 .practices-h2{
 	border-bottom: 2px solid #d81a2a;
@@ -231,4 +236,7 @@ img.teams-icon {
 }
 #orangeflag{
 	color:orange;
+}
+@media only screen and (min-width: 375px) {
+	
 }
