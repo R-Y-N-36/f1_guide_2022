@@ -2,6 +2,7 @@ body{
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 	line-height: 1.5em;
 	text-align: justify;
+	width:100%;
 }
 p{
 	font-size:16px;
@@ -236,7 +237,4 @@ img.teams-icon {
 }
 #orangeflag{
 	color:orange;
-}
-@media only screen and (min-width: 375px) {
-	
 }
