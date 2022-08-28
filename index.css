@@ -357,12 +357,12 @@ and (max-device-width : 480px) {
 	height:auto;
 	}
 	#envelope{
-	font-size:1.3em !important;	
+	font-size:1em !important;	
 	}
 	#instagram{
-	font-size:1.3em !important;		
+	font-size:1em !important;		
 	}
 	#telegram{
-	font-size:1.3em !important;		
+	font-size:1em !important;		
 	}
 }	
