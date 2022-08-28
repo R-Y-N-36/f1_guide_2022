@@ -241,7 +241,7 @@ img.teams-icon {
 	color:orange;
 }
 @media only screen 
-and (min-device-width : 320px) 
+and (min-device-width : 360px) 
 and (max-device-width : 480px) {
 	img.h2 {
 	max-width:200px;
@@ -304,31 +304,52 @@ and (max-device-width : 480px) {
 	height:30px;
 	}
 	.f1-teams-h2{
-	margin-right: 230px !important;
-	}
-	.weekend-events-h2{
-	margin-right: 151px !important;
-	}
-	.practices-h2{
 	margin-right: 215px !important;
 	}
+	.weekend-events-h2{
+	margin-right: 136px !important;
+	}
+	.practices-h2{
+	margin-right: 200px !important;
+	}
 	.qualifying-h2{
-	margin-right: 206px !important;
+	margin-right: 191px !important;
 	}
 	.race-h2{
-	margin-right: 261px !important;
+	margin-right: 246px !important;
 	}
 	.safty-car-h2{
-	margin-right: 206px !important;
+	margin-right: 191px !important;
 	}
 	.flags-h2{
-	margin-right: 255px !important;
+	margin-right: 240px !important;
 	}
 	.tyres-h2{
-	margin-right: 255px !important;
+	margin-right: 240px !important;
 	}
 	img.tyres{
 	width:230px;
 	height:100px;
 	}
-}
+	.ers-h2{
+	margin-right: 260px !important;
+	}
+	.drs-h2{
+	margin-right: 255px !important;
+	}
+	li.topics-10{
+	font-size:16px;
+	margin-left: 28px;
+	}
+	img.flags {
+	max-width:150px;
+	height:auto;
+	}
+	.rights{
+	font-size:8px;
+	margin-top: 6px;
+	}
+	.body-footer-text{
+	font-size:10px;
+	}
+}	
