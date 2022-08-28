@@ -352,4 +352,17 @@ and (max-device-width : 480px) {
 	.body-footer-text{
 	font-size:10px;
 	}
+	.icons{
+	width:1px;
+	height:auto;
+	}
+	#envelope{
+	font-size:1.3em !important;	
+	}
+	#instagram{
+	font-size:1.3em !important;		
+	}
+	#telegram{
+	font-size:1.3em !important;		
+	}
 }	
