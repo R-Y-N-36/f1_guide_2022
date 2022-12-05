@@ -152,6 +152,9 @@ li.topics-10{
 .topic-strong {
 	font-size:13.6px;
 }
+.first-ul{
+	list-style-type:circle;
+}
 .rights{
 	font-size:12px;
 	margin-top: 10px;
