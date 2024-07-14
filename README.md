@@ -259,5 +259,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 For any inquiries or contributions, please contact the project maintainer.
 
 ---
-
-*This README provides an overview of the Formula 1® Guide 2022 project. It outlines the project structure, introduces Formula One, and explains key aspects of the sport, ensuring a comprehensive understanding for enthusiasts and newcomers alike.*
